@@ -4,8 +4,6 @@ A rule-based sports chatbot built using Python for CodSoft Internship Task 1.
 
 Alex is a command-line chatbot that answers predefined questions about different sports, famous players, rules, scoring systems, tournaments, and sports terminology.
 
----
-
 🚀 Features
 
 - 💬 Interactive command-line conversation
@@ -33,8 +31,6 @@ Alex is a command-line chatbot that answers predefined questions about different
 - 👋 Exit command
 - 🛡️ Unknown-input handling
 
----
-
 🛠️ Technologies Used
 
 - Python 3
@@ -42,8 +38,6 @@ Alex is a command-line chatbot that answers predefined questions about different
 - No external APIs
 - No machine-learning libraries
 - No external dependencies
-
----
 
 📂 Project Structure
 
@@ -61,8 +55,6 @@ Alex-Sports-Expert-Chatbot/
     ├── famous_player_demo.png
     ├── football_demo.png
     └── chatbot_exit.png
-
----
 
 ▶️ How to Run
 
@@ -86,7 +78,6 @@ If your system uses "python3":
 
 python3 main.py
 
----
 
 💬 Example Questions
 
@@ -134,7 +125,6 @@ help
 
 bye
 
----
 
 🧠 How the Chatbot Works
 
@@ -168,14 +158,12 @@ elif "virat" in user or "kohli" in user:
 
 This means the chatbot does not use machine learning or an external AI API. It responds according to predefined rules written in Python.
 
-
 🎯 CodSoft Internship
 
 Internship: CodSoft Internship
 Task: Task 1 - Rule-Based Chatbot
 Project: Alex - Sports Expert Chatbot
 Programming Language: Python
-
 
 📸 Screenshots
 
@@ -188,7 +176,6 @@ The screenshots demonstrate:
 - Famous player questions
 - Football questions
 - Chatbot exit
-
 
 📚 Concepts Learned
 
@@ -206,7 +193,6 @@ This project helped me practice:
 - Rule-based chatbot development
 - GitHub repository management
 
-
 🔮 Future Improvements
 
 Possible future improvements include:
@@ -221,7 +207,6 @@ Possible future improvements include:
 - Conversation history
 - Improved natural-language understanding
 
-
 👨‍💻 Author
 
 Nishesh Raj Singh
@@ -233,3 +218,7 @@ https://github.com/yashsingh-07
 
 LinkedIn:
 https://www.linkedin.com/in/nishesh-raj-singh-5b5246372/
+
+📄 License
+
+This project is licensed under the MIT License.
